@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 package CIDER_GUI_textComponents;
-import CIDER_GUI_CIDER_entityMarkers.CIDER_GUI_Object;
+import CIDER_GUI_CIDER_entityMarkers.*;
 import processing.core.PApplet;
 import processing.core.PGraphics;
 import processing.core.PVector;

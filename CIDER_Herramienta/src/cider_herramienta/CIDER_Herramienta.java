@@ -141,5 +141,6 @@ public class CIDER_Herramienta extends PApplet{
   */
  public static void main(String[] args) {
   // TODO code application logic here
+  PApplet.main(new String[]{cider_herramienta.CIDER_Herramienta.class.getName()});
  }
 }
